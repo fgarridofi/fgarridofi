@@ -10,9 +10,9 @@
 
 - 📚 Mis titulaciones:
   
- --**Ingeniería Informática 💻**
- --**Máster en Informática Móvil📱**
- --**Experto en Big Data📈**
+ -**Ingeniería Informática 💻**
+ -**Máster en Informática Móvil📱**
+ -**Experto en Big Data📈**
 
 - 📫 Cómo contactar conmigo? **garridofernando2001@gmail.com**
 
