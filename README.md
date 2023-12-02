@@ -10,13 +10,13 @@
 
 - 📚 Mis titulaciones:
   
- -**Ingeniería Informática 💻**
- -**Máster en Informática Móvil📱**
- -**Experto en Big Data📈**
+  - **Ingeniería Informática 💻**
+  - **Máster en Informática Móvil📱**
+  - **Experto en Big Data📈**
 
 - 📫 Cómo contactar conmigo? **garridofernando2001@gmail.com**
 
-<h3 align="left">Conenta conmigo:</h3>
+<h3 align="left">Conecta conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/fernando-garrido-fidalgo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fernando-garrido-fidalgo/" height="30" width="40" /></a>
 </p>
