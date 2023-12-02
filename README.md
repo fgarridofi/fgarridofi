@@ -1,4 +1,5 @@
-[![MasterHead](![banner](https://github.com/fgarridofi/fgarridofi/assets/116899309/e258e6df-9374-44e4-a76e-d8d5da7353c8)
+[![MasterHead](![banner fer](https://github.com/fgarridofi/fgarridofi/assets/116899309/ba0f8cdf-35f0-4e23-8534-76c7b7f14e43)
+)
 )](www.linkedin.com/in/fernando-garrido-fidalgo)
 <h1 align="center">Hey 👋, Soy Fernando Garrido</h1>
 <h3 align="center">Ingeniero Informático especializado en el desarrollo de aplicaciones móviles, motivado por la ambición y ganas de aprender cosas nuevas.</h3>
