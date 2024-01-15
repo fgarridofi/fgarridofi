@@ -1,4 +1,5 @@
-![banner fer](https://github.com/fgarridofi/fgarridofi/assets/116899309/ba0f8cdf-35f0-4e23-8534-76c7b7f14e43)
+![Fernando Garrido](https://github.com/fgarridofi/fgarridofi/assets/116899309/49b8f1c9-adb3-448d-891c-a2926e01af95)
+
 <h1 align="center">Hey 👋, Soy Fernando Garrido</h1>
 <h3 align="center">Ingeniero Informático especializado en el desarrollo de aplicaciones móviles, motivado por la ambición y ganas de aprender cosas nuevas.</h3>
 
