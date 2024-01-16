@@ -12,7 +12,9 @@
   - **Ingeniería Informática 💻**
   - **Máster en Informática Móvil📱**
   - **Experto en Big Data📈**
-
+   
+- :desktop_computer: Mi portfolio -> www.fernandogarrido.dev
+  
 - 📫 Cómo contactar conmigo? **garridofernando2001@gmail.com**
 
 <h3 align="left">Conecta conmigo:</h3>
